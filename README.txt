@@ -4,7 +4,7 @@ Files:
 - index.html
 - styles.css
 - script.js
-- assets/logo.jpg
+- logo.jpg
 
 FREE HOSTING OPTION: GitHub Pages
 1. Create a free GitHub account at github.com.
