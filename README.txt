@@ -12,18 +12,6 @@ FREE HOSTING OPTION: GitHub Pages
 3. Upload all files and the assets folder.
 4. In Settings > Pages, choose Deploy from branch, select main and /root, then Save.
 5. GitHub will give you a free website address.
-6.xml version="1.0" encoding="UTF-8"?>
-
-
-
-  
-
-    
-
-  
-
-
-
 The website includes:
 - Dutch / English switch
 - Mobile responsive design
