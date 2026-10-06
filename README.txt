@@ -5,7 +5,7 @@ Files:
 - styles.css
 - script.js
 - logo.jpg
-
+- sitemap.xml
 FREE HOSTING OPTION: GitHub Pages
 1. Create a free GitHub account at github.com.
 2. Create a new public repository, for example: autosleutel-zeewolde
