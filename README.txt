@@ -5,14 +5,25 @@ Files:
 - styles.css
 - script.js
 - logo.jpg
-
+- sitemap.xml
 FREE HOSTING OPTION: GitHub Pages
 1. Create a free GitHub account at github.com.
 2. Create a new public repository, for example: autosleutel-zeewolde
 3. Upload all files and the assets folder.
 4. In Settings > Pages, choose Deploy from branch, select main and /root, then Save.
 5. GitHub will give you a free website address.
+6.xml version="1.0" encoding="UTF-8"?>
 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+
+    <loc>https://autosleutelzeewolde.nl/</loc>
+
+  </url>
+
+
+</urlset>
 The website includes:
 - Dutch / English switch
 - Mobile responsive design
